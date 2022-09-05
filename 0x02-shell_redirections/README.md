@@ -1,1 +1,1 @@
-/etc/passwd
+display a file
